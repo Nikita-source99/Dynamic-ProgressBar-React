@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.outerbar {
+  width: 100%;
+  height: 30px;
+  border: 1px solid;
+  border-radius: 20px;
+  overflow: hidden;
+  text-align: center;
+  margin: 10px 0;
+}
+.innerbar {
+  height: 30px;
+  background-color: rgb(72, 53, 163);
+  text-align: center;
+  color: #fff;
+  padding: 7px;
+}
